@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/drink36/drink36/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
